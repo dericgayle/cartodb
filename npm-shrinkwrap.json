@@ -95,9 +95,9 @@
       "resolved": "https://registry.npmjs.org/asap/-/asap-2.0.6.tgz"
     },
     "asn1.js": {
-      "version": "4.9.1",
+      "version": "4.9.2",
       "from": "asn1.js@>=4.0.0 <5.0.0",
-      "resolved": "https://registry.npmjs.org/asn1.js/-/asn1.js-4.9.1.tgz"
+      "resolved": "https://registry.npmjs.org/asn1.js/-/asn1.js-4.9.2.tgz"
     },
     "assert": {
       "version": "1.3.0",
@@ -332,8 +332,8 @@
     },
     "cartodb-deep-insights.js": {
       "version": "0.4.7",
-      "from": "cartodb/deep-insights.js#v0.4.7",
-      "resolved": "git://github.com/cartodb/deep-insights.js.git#fbc82cb6efa1cf5851f7a2db7ee120eab1f900ad",
+      "from": "cartodb/deep-insights.js#remove-wax",
+      "resolved": "git://github.com/cartodb/deep-insights.js.git#896c7e17b77ac87e3c72cc4ef5dfa37fcf137ae8",
       "dependencies": {
         "node-polyglot": {
           "version": "2.2.2",
@@ -348,9 +348,9 @@
       "resolved": "https://registry.npmjs.org/cartodb-pecan/-/cartodb-pecan-0.2.0.tgz"
     },
     "cartodb.js": {
-      "version": "4.0.0-alpha.20",
-      "from": "cartodb/cartodb.js#v4.0.0-alpha.20",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#80f257de449883ccd725f815b3aa657d534bfe8b"
+      "version": "4.0.0-alpha.19",
+      "from": "cartodb/cartodb.js#1857-add-webpack",
+      "resolved": "git://github.com/cartodb/cartodb.js.git#0623a348173be91fd3e536c6a3ae65986ce7b8fb"
     },
     "center-align": {
       "version": "0.1.3",
@@ -494,9 +494,9 @@
       "resolved": "https://registry.npmjs.org/create-hmac/-/create-hmac-1.1.6.tgz"
     },
     "crypto-browserify": {
-      "version": "3.11.1",
+      "version": "3.12.0",
       "from": "crypto-browserify@>=3.0.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/crypto-browserify/-/crypto-browserify-3.11.1.tgz"
+      "resolved": "https://registry.npmjs.org/crypto-browserify/-/crypto-browserify-3.12.0.tgz"
     },
     "css-select": {
       "version": "1.2.0",
@@ -1721,6 +1721,11 @@
       "version": "2.0.5",
       "from": "randombytes@>=2.0.0 <3.0.0",
       "resolved": "https://registry.npmjs.org/randombytes/-/randombytes-2.0.5.tgz"
+    },
+    "randomfill": {
+      "version": "1.0.3",
+      "from": "randomfill@>=1.0.3 <2.0.0",
+      "resolved": "https://registry.npmjs.org/randomfill/-/randomfill-1.0.3.tgz"
     },
     "rangeslider.js": {
       "version": "2.3.0",
